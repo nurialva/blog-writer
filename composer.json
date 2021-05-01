@@ -1,0 +1,15 @@
+{
+    "name": "nurialva/mdta",
+    "description": "Utilities to complete MDTA WebApps.",
+    "type": "project",
+    "require": {
+        "cloudinary/cloudinary_php": "^2.1",
+        "webonyx/graphql-php": "^14.5"
+    },
+    "authors": [
+        {
+            "name": "Zainuri",
+            "email": "nurinawawy@gmail.com"
+        }
+    ]
+}
